@@ -1,0 +1,5 @@
+xset r rate 200 35 &
+ibus-daemon -d &
+pasystray &
+nitrogen --restore
+ 
