@@ -1,5 +1,6 @@
-xset r rate 200 35 &
-ibus-daemon -d &
-pasystray &
+xset r rate 200 35
+ibus-daemon -drxR
+asystray &
+flameshot &
 nitrogen --restore
  

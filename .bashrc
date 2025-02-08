@@ -11,3 +11,7 @@ PS1='[\u@\h \W]\$ '
 
 alias mc='prime-run java -jar ~/Minecraft/TLauncher.jar'
 alias parch='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
+
+#export GTK_IM_MODULE=ibus
+#export QT_IM_MODULE=ibus
+#export XMODIFIERS=@im=ibus
